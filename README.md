@@ -2,7 +2,7 @@
 for "Spring Boot 3.0 – JWT Authentication with Spring Security using MySQL Database"
 
 https://www.geeksforgeeks.org/spring-boot-3-0-jwt-authentication-with-spring-security-using-mysql-database/?ref=ml_lbp
-
+缺少配置mysql，如果在idea中出错，使用maven执行项目就可以了。
 
 -----------------------------------------
 
